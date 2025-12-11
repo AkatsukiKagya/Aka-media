@@ -5,4 +5,8 @@ A media repository.
 
 为了能够使用 GitHub + jsDelivr 这个 CDN, 我们需要把所有单个文件都限制在20MB以内.
 
+<<<<<<< HEAD
 I didn't modify it.
+=======
+I modified it.
+>>>>>>> modify-readme
